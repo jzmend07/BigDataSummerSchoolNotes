@@ -1,1 +1,2 @@
 so far I've learned that github is an amazing software, it is quick and easy to activate, and it saves time and extensive frustrations.
+It saves differences, rather than whole files.
